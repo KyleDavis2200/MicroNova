@@ -1,9 +1,28 @@
 # MicroNova
 MicroNova is a 3lb beetleweight combat robot with four wheel drive and an eggbeater style weapon. MicroNova's weapon is unique because it is an aluminum hubmotor eggbeater, which allows for the weapon to be very large while saving weight and space for the rest of the robot. I am aware that the price of this robot far exceeds the amount that I will get in the grant from HackClub Blueprint for it, but I plan to spend some of my own money to build it.
+<img width="1171" height="888" alt="image" src="https://github.com/user-attachments/assets/f00e3196-3e08-498b-be64-c84656d213f5" />
 
 ## Features
-
+- 7075 Aluminum eggbeater weapon, designed to fit a motor inside of it to make a custom hubmotor.
+- Forks to help control opponents and feed them up into my robot's weapon.
+- Tangent drive system for weight, space, and cost savings while keeping high maneuverability.
+- Four wheel drive to further increase maneuverability.
+- ELRS receiver with different firmware to allow programming AM32 over wifi (this firmware is not my creation)
+- AM32 ESCs for drive for optimal responsiveness and maneuverability.
+- 6s battery for increased power and efficiency.
+  
 ## Images
+<img width="956" height="1074" alt="image" src="https://github.com/user-attachments/assets/69dd4e1f-4d31-4c2b-b0eb-645f29144815" />
+
+<img width="1472" height="651" alt="image" src="https://github.com/user-attachments/assets/c6847788-7350-4fe2-b4c2-b5f30e022b80" />
+
+<img width="1422" height="736" alt="image" src="https://github.com/user-attachments/assets/85a4330f-2d3d-42a7-a440-a9b230150253" />
+
+<img width="1413" height="1075" alt="image" src="https://github.com/user-attachments/assets/b0edcf65-80bf-459b-9ec3-c73ad04b115a" />
+
+## Background
+
+MicroNova took a lot of inspiration from Brian Boxell's "Eruption" and Ayush Palse's "Kintsurgi", along with Matt Luthers "Plectorhinchus Caeruleonothus". It also draws aspects, mainly the name, from my high school's old 15lb bot, Supernova, and my own take on Supernova I designed late last year, Hypernova. All of these robots feature eggbeater weapons which allows them to hit hard and makes it easier to drive as the weapon takes up most of the front of the robot. This robot stands out from most other eggbeater robots, and all of the ones listed above except "Plectorhinchus caeruleonothus" because it has an aluminum eggbeater. This is obviously much lighter than a steel eggbeater of the same size, however the increased thickness to make the weapon durable doesn't make it as big of a weight savings as it normally appears. The increased radius also allows for more reach, which should be beneficial in fights. The other unique aspect of this robot's weapon system is that it is a hubmotor, as there is a motor on the weapon shaft buried inside of the weapon. This was initially inspired by Just Cuz's Hybrid Hubmotor advertising as potentially being useful for  beaters, but I found this was a much cheaper way of achieving that. A past version (and a future version that hasn't been fully revealed yet) of Brian Boxell's "Eruption" used a hubmotor for its weapon system to get around the downside of belts getting hit or melting. This choice also saves space on the inside of the robot, as the weapon motor is no longer inside, and reduces complexity as there is no longer a belt and pulley system for the weapon. To further save space and reduce complexity, I opted to use tangent drive which basically friction drives a wheel with a motor shaft. The motors designed specifically for this purpose are also cheaper than a traditional gearmotor, which helps make this robot more affordable than it would have been otherwise. At the end of the day though, this is still a very expensive robot, as I designed it for the 3lb weight class and designed it around a machined frame and an eggbeater weapon that would take multiple setups of 5 axis machining. 
 
 ## Bill of Materials
 
